@@ -1,0 +1,1400 @@
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[61077.893233] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[61077.992351] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+wine: DAI input hack: stage=process rejected image=L"Mimic Party.exe"
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6AE0000
+wine: wowdiag: cpu exports module=0000004FF6AE0000 ProcessInit=0000004FF6AE1FE4 ThreadInit=0000004FF6AE2B24 Simulate=0000004FF6AE34FC GetBopCode=0000004FF6AE2FDC GetContext=0000004FF6AE2FF4 SetContext=0000004FF6AE3238 unix_opcode=0000004FF6AE2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9C90000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[61115.079843] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[61115.210481] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"ViGEmBus_1.18.367.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010182F990 pc=0000004FFF9F7C10 sp=000000010182FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Temp
+wine: wowdiag: Wow64LdrpInitialize context=0000000101E3F990 pc=0000004FFF9F7C10 sp=0000000101E3FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6AE0000
+wine: wowdiag: cpu exports module=0000004FF6AE0000 ProcessInit=0000004FF6AE1FE4 ThreadInit=0000004FF6AE2B24 Simulate=0000004FF6AE34FC GetBopCode=0000004FF6AE2FDC GetContext=0000004FF6AE2FF4 SetContext=0000004FF6AE3238 unix_opcode=0000004FF6AE2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9C90000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000102A5F990 pc=0000004FFF9F7C10 sp=0000000102A5FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010306F990 pc=0000004FFF9F7C10 sp=000000010306FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6AE0000
+wine: wowdiag: cpu exports module=0000004FF6AE0000 ProcessInit=0000004FF6AE1FE4 ThreadInit=0000004FF6AE2B24 Simulate=0000004FF6AE34FC GetBopCode=0000004FF6AE2FDC GetContext=0000004FF6AE2FF4 SetContext=0000004FF6AE3238 unix_opcode=0000004FF6AE2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9C90000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6AE0000
+wine: wowdiag: cpu exports module=0000004FF6AE0000 ProcessInit=0000004FF6AE1FE4 ThreadInit=0000004FF6AE2B24 Simulate=0000004FF6AE34FC GetBopCode=0000004FF6AE2FDC GetContext=0000004FF6AE2FF4 SetContext=0000004FF6AE3238 unix_opcode=0000004FF6AE2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9C90000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010162F990 pc=0000004FFF9F7C10 sp=000000010162FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000101C3F990 pc=0000004FFF9F7C10 sp=0000000101C3FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/tasks
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/Program Files
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6AE0000
+wine: wowdiag: cpu exports module=0000004FF6AE0000 ProcessInit=0000004FF6AE1FE4 ThreadInit=0000004FF6AE2B24 Simulate=0000004FF6AE34FC GetBopCode=0000004FF6AE2FDC GetContext=0000004FF6AE2FF4 SetContext=0000004FF6AE3238 unix_opcode=0000004FF6AE2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFB020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6AE0000
+wine: wowdiag: cpu exports module=0000004FF6AE0000 ProcessInit=0000004FF6AE1FE4 ThreadInit=0000004FF6AE2B24 Simulate=0000004FF6AE34FC GetBopCode=0000004FF6AE2FDC GetContext=0000004FF6AE2FF4 SetContext=0000004FF6AE3238 unix_opcode=0000004FF6AE2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFB020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6AE0000
+wine: wowdiag: cpu exports module=0000004FF6AE0000 ProcessInit=0000004FF6AE1FE4 ThreadInit=0000004FF6AE2B24 Simulate=0000004FF6AE34FC GetBopCode=0000004FF6AE2FDC GetContext=0000004FF6AE2FF4 SetContext=0000004FF6AE3238 unix_opcode=0000004FF6AE2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFB020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[112535.557218] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[112535.667633] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+[112568.564882] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[112569.004439] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/Public
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/Public/Documents
+[112590.049380] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[112902.187062] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[112902.427273] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[112943.925073] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[112944.335456] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[112967.682881] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+[113182.870701] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore/filerepository
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6810000
+wine: wowdiag: cpu exports module=0000004FF6810000 ProcessInit=0000004FF6811FE4 ThreadInit=0000004FF6812B24 Simulate=0000004FF68134FC GetBopCode=0000004FF6812FDC GetContext=0000004FF6812FF4 SetContext=0000004FF6813238 unix_opcode=0000004FF6812FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA4B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[117461.444388] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[117461.680692] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[117469.399709] (Everwind-Win64-) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF69E0000
+wine: wowdiag: cpu exports module=0000004FF69E0000 ProcessInit=0000004FF69E1FE4 ThreadInit=0000004FF69E2B24 Simulate=0000004FF69E34FC GetBopCode=0000004FF69E2FDC GetContext=0000004FF69E2FF4 SetContext=0000004FF69E3238 unix_opcode=0000004FF69E2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9B90000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[117679.116789] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[117679.228670] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[117721.280214] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+117721.533:00f8:00fc:err:vkd3d-proton:vkd3d_init_device_caps: Lacking support for VK_EXT_vertex_attribute_divisor.
+[117722.014506] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/users/Public
+[copy] Failed to copy extended attributes: /data/user/0/banner.hub/files/usr/home/containers/0/dosdevices/c:/users/Public/Documents
+[117752.221228] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF69E0000
+wine: wowdiag: cpu exports module=0000004FF69E0000 ProcessInit=0000004FF69E1FE4 ThreadInit=0000004FF69E2B24 Simulate=0000004FF69E34FC GetBopCode=0000004FF69E2FDC GetContext=0000004FF69E2FF4 SetContext=0000004FF69E3238 unix_opcode=0000004FF69E2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9EF0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[66239.145450] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[66239.251794] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[66282.685336] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+66282.896:00fc:0100:err:vkd3d-proton:vkd3d_init_device_caps: Lacking support for VK_EXT_vertex_attribute_divisor.
+[66283.254131] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[66309.019330] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6F20000
+wine: wowdiag: cpu exports module=0000004FF6F20000 ProcessInit=0000004FF7007EE8 ThreadInit=0000004FF7008AD0 Simulate=0000004FF7009284 GetBopCode=0000004FF7008F18 GetContext=0000004FF7008F30 SetContext=0000004FF7009098 unix_opcode=0000004FF7008F24
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9EF0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[66489.259997] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[66489.364064] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[66529.519484] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+66529.719:00f4:00f8:err:vkd3d-proton:vkd3d_init_device_caps: Lacking support for VK_EXT_vertex_attribute_divisor.
+[66529.983236] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[66556.745214] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+[66854.375426] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6F20000
+wine: wowdiag: cpu exports module=0000004FF6F20000 ProcessInit=0000004FF7007EE8 ThreadInit=0000004FF7008AD0 Simulate=0000004FF7009284 GetBopCode=0000004FF7008F18 GetContext=0000004FF7008F30 SetContext=0000004FF7009098 unix_opcode=0000004FF7008F24
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF9B90000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[87821.398513] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[87821.487082] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[87852.237286] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+87852.426:00fc:0100:err:vkd3d-proton:vkd3d_init_device_caps: Lacking support for VK_EXT_vertex_attribute_divisor.
+[87852.763275] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[87871.519495] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+[88024.920925] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+X connection to :0 broken (explicit kill or server shutdown).
+XIO:  fatal IO error 61 (No data available) on X server ":0"
+      after 147 requests (147 known processed) with 0 events remaining.
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[88412.668792] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[88412.772358] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[88447.808095] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[88448.208375] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+warn:  DXVK: Updating state cache version to v10
+warn:  DXVK: Creating new state cache file
+[88468.305056] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+warn:  a7aa6116-9c8d-4bba-9083-b4d816b71b78
+warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+warn:  ccffef16-7b69-468f-bce3-cd953369a39a
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+warn:  DXGI: MakeWindowAssociation: Ignoring flags
+err:   Failed to create shared resource: getImageProperties failed:VK_ERROR_FORMAT_NOT_SUPPORTED
+warn:  D3D11: Failed to write shared resource info for a texture
+err:   Failed to create shared resource: getImageProperties failed:VK_ERROR_FORMAT_NOT_SUPPORTED
+warn:  D3D11: Failed to write shared resource info for a texture
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore/filerepository
+err:   Failed to create shared resource: getImageProperties failed:VK_ERROR_FORMAT_NOT_SUPPORTED
+warn:  D3D11: Failed to write shared resource info for a texture
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[88865.046799] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[88865.155109] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[88907.756583] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[88908.258616] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[88929.778570] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[89173.735211] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[89173.854494] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[89212.912192] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[89213.249669] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+[89235.753253] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+wine: DAI input hack: stage=process rejected image=L"Everwind-Win64-Shipping.exe"
+[89398.303766] (GameThread) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore/filerepository
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA9F0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[11900.131811] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[11900.255999] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Temp
+wine: DAI input hack: stage=process rejected image=L"PrismLauncher-Windows-MSVC-Setup-11.1.0.exe"
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA9F0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010162F990 pc=0000004FFF9F7C10 sp=000000010162FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010182F990 pc=0000004FFF9F7C10 sp=000000010182FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA9F0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA9F0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"vc_redist.arm64.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010182F990 pc=0000004FFF9F7C10 sp=000000010182FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000101A2F990 pc=0000004FFF9F7C10 sp=0000000101A2FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA9F0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"VC_redist.arm64.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/ProgramData
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000102A5F990 pc=0000004FFF9F7C10 sp=0000000102A5FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/concrt140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/msvcp140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/msvcp140_1.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/msvcp140_2.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/msvcp140_atomic_wait.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/msvcp140_codecvt_ids.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/vccorlib140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/vcomp140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/vcruntime140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local__H8YDbMbSyObUXMOteX2tg/dosdevices/c:/windows/system32/vcruntime140_1.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft/Windows
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft/Windows/Start Menu
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft/Windows/Start Menu/Programs
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/Desktop
+Failed to inject process
+Could not find memory region containing address /wineCould not find memory region containing address /box64Failed to inject process
+Could not find memory region containing address /wineCould not find memory region containing address /box64wine: DAI input hack: stage=process rejected image=L"prismlauncher.exe"
+GnuTLS error: The requested data were not available.
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/LocalLow
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft/Windows
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft/Windows/INetCache
+GnuTLS error: The requested data were not available.
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft/Windows/INetCookies
+GnuTLS error: The requested data were not available.
+[12160.427647] (prismlauncher.e) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore/filerepository
+[10869.966421] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[10870.053016] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+wine: DAI input hack: stage=process rejected image=L"LabyModLauncherSetup-latest.exe"
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Temp
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"LabyModLauncherSetup-3.1.6-nsis.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF2170000
+wine: wowdiag: cpu exports module=0000004FF2170000 ProcessInit=0000004FF2171FE4 ThreadInit=0000004FF2172B24 Simulate=0000004FF21734FC GetBopCode=0000004FF2172FDC GetContext=0000004FF2172FF4 SetContext=0000004FF2173238 unix_opcode=0000004FF2172FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FF6020000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore/filerepository
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA390000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[ 1793.954126] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[ 1794.040731] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Temp
+wine: DAI input hack: stage=process rejected image=L"PrismLauncher-Windows-MSVC-Setup-11.1.0.exe"
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA390000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010162F990 pc=0000004FFF9F7C10 sp=000000010162FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010182F990 pc=0000004FFF9F7C10 sp=000000010182FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA390000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA390000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"vc_redist.arm64.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010182F990 pc=0000004FFF9F7C10 sp=000000010182FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000101A2F990 pc=0000004FFF9F7C10 sp=0000000101A2FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA390000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"VC_redist.arm64.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/ProgramData
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000102A5F990 pc=0000004FFF9F7C10 sp=0000000102A5FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/concrt140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/msvcp140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/msvcp140_1.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/msvcp140_2.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/msvcp140_atomic_wait.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/msvcp140_codecvt_ids.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/vccorlib140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/vcomp140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/vcruntime140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_sgGVlqjmQG2bLu1kDLs7Rw/dosdevices/c:/windows/system32/vcruntime140_1.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft/Windows
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft/Windows/Start Menu
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Roaming/Microsoft/Windows/Start Menu/Programs
+Failed to inject process
+Could not find memory region containing address /wineCould not find memory region containing address /box64wine: DAI input hack: stage=process rejected image=L"prismlauncher.exe"
+GnuTLS error: The requested data were not available.
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/LocalLow
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft/Windows
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft/Windows/INetCache
+[ 1905.287983] (prismlauncher.e) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Microsoft/Windows/INetCookies
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+GnuTLS error: The requested data were not available.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore/filerepository
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF57F0000
+wine: wowdiag: cpu exports module=0000004FF57F0000 ProcessInit=0000004FF57F1FE4 ThreadInit=0000004FF57F2B24 Simulate=0000004FF57F34FC GetBopCode=0000004FF57F2FDC GetContext=0000004FF57F2FF4 SetContext=0000004FF57F3238 unix_opcode=0000004FF57F2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA690000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[ 2165.405542] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[ 2165.485770] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Temp
+wine: DAI input hack: stage=process rejected image=L"PrismLauncher-Windows-MSVC-Setup-11.1.0.exe"
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF57F0000
+wine: wowdiag: cpu exports module=0000004FF57F0000 ProcessInit=0000004FF57F1FE4 ThreadInit=0000004FF57F2B24 Simulate=0000004FF57F34FC GetBopCode=0000004FF57F2FDC GetContext=0000004FF57F2FF4 SetContext=0000004FF57F3238 unix_opcode=0000004FF57F2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA690000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"conhost.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010162F990 pc=0000004FFF9F7C10 sp=000000010162FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010182F990 pc=0000004FFF9F7C10 sp=000000010182FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF57F0000
+wine: wowdiag: cpu exports module=0000004FF57F0000 ProcessInit=0000004FF57F1FE4 ThreadInit=0000004FF57F2B24 Simulate=0000004FF57F34FC GetBopCode=0000004FF57F2FDC GetContext=0000004FF57F2FF4 SetContext=0000004FF57F3238 unix_opcode=0000004FF57F2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA690000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF57F0000
+wine: wowdiag: cpu exports module=0000004FF57F0000 ProcessInit=0000004FF57F1FE4 ThreadInit=0000004FF57F2B24 Simulate=0000004FF57F34FC GetBopCode=0000004FF57F2FDC GetContext=0000004FF57F2FF4 SetContext=0000004FF57F3238 unix_opcode=0000004FF57F2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA690000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"vc_redist.arm64.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010182F990 pc=0000004FFF9F7C10 sp=000000010182FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000101A2F990 pc=0000004FFF9F7C10 sp=0000000101A2FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF57F0000
+wine: wowdiag: cpu exports module=0000004FF57F0000 ProcessInit=0000004FF57F1FE4 ThreadInit=0000004FF57F2B24 Simulate=0000004FF57F34FC GetBopCode=0000004FF57F2FDC GetContext=0000004FF57F2FF4 SetContext=0000004FF57F3238 unix_opcode=0000004FF57F2FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA690000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100C0F990 pc=0000004FFF9F7C10 sp=0000000100C0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"VC_redist.arm64.exe"
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/ProgramData
+wine: wowdiag: Wow64LdrpInitialize context=000000010244F990 pc=0000004FFF9F7C10 sp=000000010244FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000102A5F990 pc=0000004FFF9F7C10 sp=0000000102A5FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/concrt140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/msvcp140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/msvcp140_1.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/msvcp140_2.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/msvcp140_atomic_wait.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/msvcp140_codecvt_ids.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/vccorlib140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/vcomp140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/vcruntime140.dll.copying
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/virtual_containers/local_RWdUs5tWQA2VpaD2KyZkrQ/dosdevices/c:/windows/system32/vcruntime140_1.dll.copying
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+esync: shm initialized, fd=3 size=4096 pagesize=4096
+esync: up and running.
+Boot SandboxFS 422bc56 (2026-04-18)
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/driverstore/filerepository
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA7B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[87973.043584] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+Could not open module param file '/sys/module/mali_kbase/parameters/large_page_conf'
+[87973.173965] (explorer.exe) Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+WARNING: Some incorrect rendering might occur because the selected Vulkan device (Mali-G57 MC2) doesn't support base Zink requirements: feats.features.fillModeNonSolid feats.features.shaderClipDistance 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+wine: DAI input hack: stage=process rejected image=L"explorer.exe"
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/users/steamuser/AppData/Local/Temp
+wine: DAI input hack: stage=process rejected image=L"FastClient-Setup.exe"
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010121F990 pc=0000004FFF9F7C10 sp=000000010121FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA7B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/Program Files (x86)
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA7B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/ProgramData
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/ProgramData/Microsoft
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA7B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+[copy] Failed to copy extended attributes: /data/user/0/com.xiaoji.egggame/files/usr/home/containers/0/dosdevices/c:/windows/system32/tasks
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA7B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA7B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: DAI input hack: stage=process rejected image=L"MicrosoftEdgeUpdate.exe"
+wine: wowdiag: Wow64LdrpInitialize context=00000001001FF990 pc=0000004FFF9F7C10 sp=00000001001FFD20
+wine: wowdiag: process_init current_machine=014c native_machine=aa64
+wine: wowdiag: cpu dll selected (first WCHAR=006c)
+wine: wowdiag: LdrLoadDll begin kind=cpu-backend
+wine: wowdiag: LdrLoadDll done kind=cpu-backend module=0000004FF6820000
+wine: wowdiag: cpu exports module=0000004FF6820000 ProcessInit=0000004FF6821FE4 ThreadInit=0000004FF6822B24 Simulate=0000004FF68234FC GetBopCode=0000004FF6822FDC GetContext=0000004FF6822FF4 SetContext=0000004FF6823238 unix_opcode=0000004FF6822FE8
+wine: wowdiag: LdrLoadDll begin kind=wow64win.dll
+wine: wowdiag: LdrLoadDll done kind=wow64win.dll module=0000004FFA7B0000
+wine: wowdiag: BTCpuProcessInit begin
+wine: wowdiag: BTCpuProcessInit returned flags=00000002
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000100A0F990 pc=0000004FFF9F7C10 sp=0000000100A0FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010101F990 pc=0000004FFF9F7C10 sp=000000010101FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010162F990 pc=0000004FFF9F7C10 sp=000000010162FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=0000000101C3F990 pc=0000004FFF9F7C10 sp=0000000101C3FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010224F990 pc=0000004FFF9F7C10 sp=000000010224FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+wine: wowdiag: Wow64LdrpInitialize context=000000010285F990 pc=0000004FFF9F7C10 sp=000000010285FD20
+wine: wowdiag: process_init complete; thread_init begin
+wine: wowdiag: thread_init complete; cpu_simulate begin
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
